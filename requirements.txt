@@ -2,3 +2,5 @@ flask
 pandas
 gunicorn
 sklearn
+tensorflow
+keras
